@@ -54,7 +54,7 @@ function Home() {
         <div>Get in Touch</div>
         <div>
           <a
-            href="https://twitter.com/Armankazi111"
+            href="#"
             target="_blank"
             rel="noopener noreferrer"
             className="link"
@@ -62,7 +62,7 @@ function Home() {
             <IoLogoTwitter className="social-icon" />
           </a>
           <a
-            href="https://github.com/Amyx000"
+            href="#"
             target="_blank"
             rel="noopener noreferrer"
             className="link"
